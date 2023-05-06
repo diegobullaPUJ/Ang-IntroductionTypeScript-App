@@ -11,4 +11,4 @@ Aplicación donde abordamos los temas fundamentales de TypeScript entre los que 
 8. Decoradores  
 9. Encadenamiento opcional.
 
-El objetivo de esta APP es familiarizarce con TypeScript entendiendo los conceptos básicos de como funciona, ademas acostumbrarnos a la sintaxis y el tipado estricto de datos. Entendiendo la importancia de esto.
+El objetivo de esta APP es familiarizarce con TypeScript entendiendo los conceptos básicos de como funciona, además acostumbrarnos a la sintaxis y el tipado estricto de datos. Entendiendo la importancia de esto.
