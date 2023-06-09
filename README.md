@@ -1,4 +1,13 @@
 # Introduccion-a-TypeScript
+
+## Ejecutar proyecto localmente
+
+1. Clonar proyecto.
+2. Ejecutar ```npm install``` para descargar las dependencias.
+3. Ejecutar la app ```ng serve -o```.
+
+## Descripción
+
 Aplicación donde abordamos los temas fundamentales de TypeScript entre los que se encuentran. 
 
 1. Tipos básicos  
